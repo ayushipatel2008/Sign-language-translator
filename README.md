@@ -48,11 +48,17 @@ Dataset - https://drive.google.com/file/d/1jF45Ud5cWhGuLeakHtMagQ6usAVOZfUv/view
 
 ## **Results**
 
-
+<details><summary> <b>Static results </b> </summary>
+  
 ![image](https://github.com/user-attachments/assets/e19e2c11-8cc9-464c-9fd8-dec71732999d)
 
+</details>
 
+<details><summary> <b>Dynamic results </b> </summary>
 
+https://drive.google.com/file/d/1aMYgu5gCkE6UTovd3-dhHy7xNF6gSWG3/view?usp=sharing
+
+</details>
 
 _To check whether or not only the ROI is being preprocessed_
 
