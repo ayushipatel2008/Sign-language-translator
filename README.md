@@ -5,3 +5,5 @@ Run the source code for model file on Jupyter Notebook. Make sure to choose the 
 
 Once the gesture_model.h5 or gesture_model.keras file is generated, run the real_time_detection file and your video streaming will begin. 
 
+Proposed System
+![image](https://github.com/user-attachments/assets/d8441cbf-7199-4dd5-ae09-3da331e9ad2b)
