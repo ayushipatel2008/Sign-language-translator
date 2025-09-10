@@ -1,4 +1,4 @@
-![Demo GIF](demo/demo.gif) 
+![Demo GIF]("C:\Users\Ayushi Ashok Patel\Downloads\demovideo.mp4") 
 
 **Hand Gesture Recognition** is nothing but a logical evolution from touchscreens. Snap your fingers and make your coffee maker brew you a fresh cup. Wave a hand near your smart TV and switch on today’s weather forecast. Apart from this fun and entertainment purposes, It aids individuals with disabilities by offering an alternative means of communication and control. It is also used in Medical care to reduce physical touch. As for automation - BMW’s gesture control system allows drivers to adjust volume, answer calls, or navigate using gestures. And Apple Vision pro is one of the examples that shows hand gesture recognition’s contribution in Virtual and Augmented Reality.
 
